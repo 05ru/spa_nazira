@@ -19,7 +19,7 @@ export default function Root() {
           <div className="flex justify-between items-center py-4">
             <Link to="/" className="flex flex-col">
               <h1 className="text-xl font-semibold text-gray-900">ИП Магомедова Назира</h1>
-              <p className="text-sm text-gray-600">Официальная деятельность</p>
+              <p className="text-sm text-gray-600">Бухгалтерский учет, IT-услуги и розничная торговля</p>
             </Link>
             <nav className="hidden md:flex space-x-8">
               <Link
